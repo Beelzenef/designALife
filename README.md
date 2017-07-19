@@ -11,6 +11,7 @@
 
 * [Núcleo 1](GL101x/c1.md)
 * [Núcleo 2](GL101x/c2.md)
+* [O3: Learning Communities](GL101x/c3.md)
 
 ----
 
