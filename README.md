@@ -1,6 +1,6 @@
 # designALife
 
-Índice de contenidos categorizados por MOOCs (edX.org)
+Índice de contenidos categorizados por MOOCs (edX.org y otras plataformas)
 
 ## Game design - MITx 11.126x
 
@@ -12,6 +12,15 @@
 * [Núcleo 1](GL101x/c1.md)
 * [Núcleo 2](GL101x/c2.md)
 * [O3: Learning Communities](GL101x/c3.md)
+
+## Introduction to User Experience - MichiganX UX501x
+
+* [Lección 1](UX501x/l1.md)
+* Lección 2
+
+## SCRUM - SBOK
+
+* [Introduccion a SCRUM](SCRUM_SBOK/intro.md)
 
 ----
 
