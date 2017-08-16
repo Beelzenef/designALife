@@ -2,7 +2,7 @@
 
 Blender es un software para modelado 3D, rigging, texturizado... gratuito y libre.
 
-Permite, entre otras cosas, crear nuestros modelos para proyectos orientados en [Unity](https://unity3d.com/es/learn/tutorials).
+Permite, entre otras cosas, crear nuestros modelos para proyectos orientados en [Unity](https://unity3d.com/es/learn/tutorials). Para más referencias, libro ["Blender: Noob to Pro" en Wikibooks](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro)... para futuras contribuciones.
 
 ## _Shortcuts_ útiles
 
