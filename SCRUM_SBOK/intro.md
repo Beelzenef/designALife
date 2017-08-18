@@ -29,6 +29,10 @@ Los 6 principios de SBOK:
 * Gestión de tiempo
 * Desarrollo iterativo
 
+Estos principios no son negociables, pues ayudan a que el _framework_ funcione y que se genere confianza en el producto final. Son aplicables a cualquier versión de SCRUM, y por eso resulta tan efectivo. Son las guías base de este modo de trabajo.
+
+![](https://www.scrumstudy.com/Scrum-Images/scrum-principles.png)
+
 Aspectos en SBOK:
 
 * Organización
@@ -44,3 +48,5 @@ Las cinco fases según SBOK:
 * Implementación
 * Revisión y retrospección
 * Liberación
+
+Tanto los aspectos como fases/procesos sí son adaptables para cumplir los requisitos del proyecto.
