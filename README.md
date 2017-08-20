@@ -16,7 +16,7 @@
 ## Introduction to User Experience - MichiganX UX501x
 
 * [Lección 1](UX501x/l1.md)
-* Lección 2
+* [Lección 2](UX501x/l2.md)
 
 ## SCRUM - SBOK
 
