@@ -43,10 +43,32 @@ Aspectos en SBOK:
 
 Las cinco fases según SBOK:
 
-* Ini
+* Inicio
 * Plan y estimación
 * Implementación
 * Revisión y retrospección
 * Liberación
 
 Tanto los aspectos como fases/procesos sí son adaptables para cumplir los requisitos del proyecto.
+
+## Roles
+
+### Roles nucleares (core)
+
+Son los roles indispensables, claves para este _framework_.
+
+* Propietario del producto (_product owner_), que representa al cliente y se encarga de la justificación del negocio.
+* _SCRUM Master_, el líder del equipo. Es el que guía y enseña al equipo según el _framework_, además de proporcionar un entorno adecuado mientras se sigue el proceso SCRUM. Toma decisiones en el proyecto a partir de costes y tiempo.
+* Equipo SCRUM, el equipo en sí. Se encargan de entender los requisitos del producto y crear las unidades que se van a entregar al _product owner_.
+
+### Roles no nucleares
+
+Son opcionales. Generalmente son personas interesadas en el proyecto. Y aunque no trabajan o actúan de forma directa, pueden influenciar al proyecto.
+
+* _Stakeholders_: clientes, usuarios y _sponsors_.  Influyen en el proceso del proyecto.
+* _SCRUM guidance body_ (SGD). Es un grupo de documentos o experos que definen los objetivos.
+* Vendedores, pudiendo ser individuos externos o una organización interna. Proveen de productos y servicios que no son competencia directa de la organización del proyecto.
+* _Chief product owner_, encontrándose en proyectos de mayores dimensiones donde operan varios equipos SCRUM. Coordinan el trabajo de los diversos propietarios del producto.
+* _Chief SCRUM master_, que coordina actividades SCRUM en proyectos de gran tamaño que cuentan con equipos trabajando de forma paralela.
+
+![](https://agilescrumblog.files.wordpress.com/2014/07/organization-in-scrum.jpg)
