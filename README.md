@@ -6,6 +6,8 @@
 
 * [Semana 1](MITx11/w1.md)
 * [Semana 2](MITx11/w2.md)
+* [Semana 3](MITx11/w3.md)
+* [Semana 4](MITx11/w4.md)
 
 ## Gameful Learning - MichiganX GL101x
 
