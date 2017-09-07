@@ -4,6 +4,8 @@ Blender es un software para modelado 3D, rigging, texturizado... gratuito y libr
 
 Permite, entre otras cosas, crear nuestros modelos para proyectos orientados en [Unity](https://unity3d.com/es/learn/tutorials). Para más referencias, libro ["Blender: Noob to Pro" en Wikibooks](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro)... para futuras contribuciones.
 
+Para consultar los modelos creados y otros experimentos, visita el repositorio [mastering3D](https://github.com/Beelzenef/mastering3D).
+
 ## _Shortcuts_ útiles
 
 | Tecla o combinación de teclas | Descripción|
@@ -18,6 +20,7 @@ Permite, entre otras cosas, crear nuestros modelos para proyectos orientados en 
 | SHIFT + A| Añadir una nueva forma |
 | X | Eliminar objeto/cara/vértice/arista |
 | ALT + Right click | Seleccionar todos los vértices (en modo vértices) |
+| SHIFT + D | Duplica objeto/cara/vértice/arista seleccionado|
 
 ### Uniendo dos objetos con _merge_
 
