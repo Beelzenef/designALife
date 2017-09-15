@@ -21,6 +21,8 @@ Para consultar los modelos creados y otros experimentos, visita el repositorio [
 | X | Eliminar objeto/cara/vértice/arista |
 | ALT + Right click | Seleccionar todos los vértices (en modo vértices) |
 | SHIFT + D | Duplica objeto/cara/vértice/arista seleccionado|
+| F12 | Renderizar|
+| 0 (numpad)| Visión de cámara|
 
 ### Uniendo dos objetos con _merge_
 
@@ -33,6 +35,16 @@ Podemos seleccionar entonces vértice contra vértice de cada objeto, si coincid
 Cuando ya hemos modelado dos objetos, como un brazo y una mano completa, los vértices no coinciden en número. Una vez en una posición deacudada, con `ALT + Right click` seleccionaremos todos los vértices que van a estar unidos, en los dos objetos, tras haber eliminado las caras sobrantes. Pulsamos `Space` y buscaremos el término _bridge_, para encontrar `Bridge Edge Loops`.
 
 Rota o reajusta la posición para una unión más coherente con el modelo.
+
+## Ayuda en la red
+
+| Acción  | Vídeos|
+|------| :----|
+| Aplicando colores y materialesS|[Enlace](https://youtu.be/3R0842q6jfE)|
+| Aplicando gravedad|[Enlace](https://youtu.be/rWbXfwTJQGA)|
+| Creando edificios|[Enlace](https://youtu.be/APZ2kZ3OF1E)|
+| Restando objetos|[Enlace](https://youtu.be/DO6pjh6nyJc)|
+| Luces de colores | [Enlace](https://youtu.be/MIoDST2qR_c)|
 
 #### Borrador
 
