@@ -36,15 +36,23 @@ Cuando ya hemos modelado dos objetos, como un brazo y una mano completa, los vé
 
 Rota o reajusta la posición para una unión más coherente con el modelo.
 
+## Exportando para Unity
+
+Unity soporta de forma nativa muchos formatos para modelos creados en diverso software (Maya, Blender, SweetHome3D...), leyendo e incluyendo en sus proyectos esos ficheros. El problema reside en que, si por ejemplo añades un fichero _.blend_, abrir el proyecto en un equipo donde no está instalado Blender resulta en el fallo e inutilización del modelo.
+
+Requerirá de instalación de  
+
 ## Ayuda en la red
 
 | Acción  | Vídeos|
 |------| :----|
-| Aplicando colores y materialesS|[Enlace](https://youtu.be/3R0842q6jfE)|
+| Aplicando colores y materiales |[Enlace](https://youtu.be/3R0842q6jfE)|
 | Aplicando gravedad|[Enlace](https://youtu.be/rWbXfwTJQGA)|
 | Creando edificios|[Enlace](https://youtu.be/APZ2kZ3OF1E)|
 | Restando objetos|[Enlace](https://youtu.be/DO6pjh6nyJc)|
 | Luces de colores | [Enlace](https://youtu.be/MIoDST2qR_c)|
+| Aplicando texturas | [Enlace](https://youtu.be/MGIBLPIz4oM) |
+| Exportando modelos a Unity | [Enlace](https://youtu.be/ch97U5H3mx4) |
 
 #### Borrador
 

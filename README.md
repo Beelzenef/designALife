@@ -29,6 +29,14 @@
 
 * [Modulo 1](OUC_Gamificacion/m1.md)
 
+## Creando con Blender
+
+* [Shortcuts y recursos varios](blenderStuff/info.md)
+
+## Cookbook "Android me!"
+
+* [Primeras nociones](AndroidMe/t1.md)
+
 ----
 
 **Elena Guzman**
