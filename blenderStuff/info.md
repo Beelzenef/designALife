@@ -46,13 +46,21 @@ Requerirá de instalación de
 
 | Acción  | Vídeos|
 |------| :----|
-| Aplicando colores y materiales |[Enlace](https://youtu.be/3R0842q6jfE)|
-| Aplicando gravedad|[Enlace](https://youtu.be/rWbXfwTJQGA)|
-| Creando edificios|[Enlace](https://youtu.be/APZ2kZ3OF1E)|
-| Restando objetos|[Enlace](https://youtu.be/DO6pjh6nyJc)|
+| Aplicando colores y materiales | [Enlace](https://youtu.be/3R0842q6jfE)|
+| Aplicando gravedad| [Enlace](https://youtu.be/rWbXfwTJQGA)|
+| Creando edificios| [Enlace](https://youtu.be/APZ2kZ3OF1E)|
+| Restando objetos| [Enlace](https://youtu.be/DO6pjh6nyJc)|
 | Luces de colores | [Enlace](https://youtu.be/MIoDST2qR_c)|
 | Aplicando texturas | [Enlace](https://youtu.be/MGIBLPIz4oM) |
+| _Isometric level design_ | [Enlace](https://www.youtube.com/watch?v=DdSeJP8jd1Y)|
+| _UV Mapping_ | [Enlace](https://youtu.be/obB9T3jXlak)|
+
+### Orientados a Unity
+
+| Acción  | Vídeos|
+|------| :----|
 | Exportando modelos a Unity | [Enlace](https://youtu.be/ch97U5H3mx4) |
+| Cámara isométrica en Unity | [Enlace](https://youtu.be/euJmKya6ZZM)|
 
 #### Borrador
 
