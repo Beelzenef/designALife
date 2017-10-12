@@ -62,6 +62,8 @@ Requerirá de instalación de
 | Exportando modelos a Unity | [Enlace](https://youtu.be/ch97U5H3mx4) |
 | Cámara isométrica en Unity | [Enlace](https://youtu.be/euJmKya6ZZM)|
 
+[UE4 _addon_](http://www.lluisgarcia.es/ue-tools-addon/), para exportar modelos a formato FBX e importarlos a Unity con colores incluidos (por probar, pensando en diseños isométricos).
+
 #### Borrador
 
 | Tecla o combinación de teclas | Descripción|
