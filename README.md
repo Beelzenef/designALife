@@ -36,6 +36,8 @@
 ## Cookbook "Android me!"
 
 * [Primeras nociones](AndroidMe/t1.md)
+* [_Widgets_](AndroidMe/widgets.md)
+* [_Layouts_](AndroidMe/layouts.md)
 
 ----
 
