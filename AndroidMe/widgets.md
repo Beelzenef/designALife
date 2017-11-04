@@ -84,3 +84,27 @@ Y una vez los hemos definido los valores que va a tener, los valores desplegable
                 android:layout_marginStart="8dp"
                 android:entries="@array/categorias"/>
 ```
+
+### TextInputLayout + TextInputEditText
+
+Siguiendo con los nuevos criterios de Material Design, se ha introducido una nueva forma de crear campos de texto con etiquetas.
+En principio, podemos hacerlo uniendo TextViews y EditTexts, pero con estos dos controles, obtenemos comodidad a la hora de programar, encadenar Views, _hints_ o sugerencias del texto a escribir y también una animación acorde al estilo de nuestra aplicación.
+
+![](https://www.android-examples.com/wp-content/uploads/2016/09/TextInputLayout-line-2-e1475231314400.png)
+
+Mediante código, lo expresamos definiendo un TextInputLayout, que en su interior tendrá un TexInputLayout. Las medidas que rigen Material Design ya están definidas, y en caso de estar en ConstraintLayout, es el _layout_ quien toma las _constraints_.
+
+```xml
+<android.support.design.widget.TextInputLayout
+                android:id="@+id/tIL_oneTextInputLayout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                
+  <android.support.design.widget.TextInputEditText
+    android:id="@+id/tID_oneTextInputEditText"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="@string/txtV_oneHint" />
+
+</android.support.design.widget.TextInputLayout>
+```
