@@ -38,6 +38,8 @@
 * [Primeras nociones](AndroidMe/t1.md)
 * [_Widgets_](AndroidMe/widgets.md)
 * [_Layouts_](AndroidMe/layouts.md)
+* [_FloatingActionButton_ en _CoordinatorLayout_](AndroidMe/fabCoordinator.md)
+* [Librerías de interés](AndroidMe/libs.md)
 
 ----
 
