@@ -1,7 +1,7 @@
 # Librerías
 
 * [SquareMenu](https://github.com/devsideal/SquareMenu)
-* [GooeMenu](https://github.com/anshulagarwal2k/GooeyMenu)
+* [GooeyMenu](https://github.com/anshulagarwal2k/GooeyMenu)
 * [FabTransitionLayout](https://github.com/bowyer-app/FabTransitionLayout)
 * [SpannedGridLayoutManager](https://github.com/Arasthel/SpannedGridLayoutManager)
 * [TapBarMenu](https://github.com/michaldrabik/TapBarMenu)
@@ -18,3 +18,6 @@
 * [MaterialAbout](https://github.com/jrvansuita/MaterialAbout)
 * [MaterialSettings](https://github.com/kenumir/MaterialSettings)
 * [MaterialPreference](https://github.com/codevscolor/MaterialPreference)
+* [Examples-Design-Patterns](https://github.com/jmperezra/Examples-Design-Patterns)
+* [MaterialRatingBar](https://github.com/DreaminginCodeZH/MaterialRatingBar)
+* [CustomizableCalendar](https://github.com/MOLO17/CustomizableCalendar)
